@@ -1,0 +1,7 @@
+Time,Day_of_week,Weather_conditions,Road_conditions,Accident_severity,Cause_of_accident
+08:30:00,Monday,Clear,Dry,Slight Injury,Speeding
+14:20:00,Tuesday,Rainy,Wet,Serious Injury,Overtaking
+18:45:00,Wednesday,Clear,Dry,Fatal,Distracted Driving
+21:15:00,Thursday,Cloudy,Dry,Slight Injury,Speeding
+06:00:00,Friday,Rainy,Wet,Serious Injury,Drunk Driving
+12:30:00,Saturday,Clear,Dry,Slight Injury,Overtaking
